@@ -14,12 +14,12 @@ Cada archivo `.sql` incluye la creación de tablas, relaciones y restricciones, 
 - **Hospitales 2** → Gestión de hospitales, pacientes y servicios médicos.
 
 ## Cómo usar
-# 1. Clonar este repositorio
+1. Clonar este repositorio
 git clone https://github.com/rakerito/BasesDeDatos-MysQL.git
-# 2. Abrir MySQL Workbench
-# 3. Importar el archivo .sql deseado
-# 4. Ejecutar los scripts para crear las tablas y relaciones
-# 5. Probar consultas sobre las tablas creadas
+2. Abrir MySQL Workbench
+3. Importar el archivo .sql deseado
+4. Ejecutar los scripts para crear las tablas y relaciones
+5. Probar consultas sobre las tablas creadas
 
 ## Autor
 Raquel Pastor Gaytán  
